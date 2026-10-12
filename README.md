@@ -25,7 +25,7 @@ Ambiente de Desenvolvimento (IDE): Apache NetBeans
 
 Versionamento de Código: Git
 
-Hospedagem do Repositório: GitHub / GitLab (ajuste conforme o que você usou)
+Hospedagem do Repositório: GitHub
 
 4. Explicação das operações
 A lógica principal do sistema está centralizada no método calc(int a, int b, String op).
@@ -56,8 +56,8 @@ Obtido   : 3
 Status   : [OK!]
 
 6. Prints da documentação JavaDoc
-(Para tirar esse print: Você pode fazer de duas formas. 1) Tirar um print do próprio código mostrando os textos em azul /** ... */ em cima dos métodos e da classe. 2) No NetBeans, clicar com o botão direito no projeto e ir em "Generate Javadoc" e tirar print da página HTML gerada).
 <img width="1917" height="711" alt="image" src="https://github.com/user-attachments/assets/754bc193-0961-48bc-9324-2c061c9a0b99" />
 
 7. Link do repositório
 O código fonte, incluindo a branch Refatoracao, pode ser acessado através do repositório remoto abaixo:
+Link: https://github.com/MurFernandez/AtividadeOhata1/tree/Refatoracao
