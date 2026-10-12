@@ -1,4 +1,4 @@
-# AtividadeOhata1
+# Exemplo README.MD.
 
 1. Descrição do projeto
 O Projeto Calculadora é uma aplicação em Java desenvolvida para realizar operações matemáticas básicas de forma segura e estruturada. O sistema recebe dois números inteiros e um operador matemático, processando a solicitação e retornando o resultado. O código foi desenhado para não interromper a execução abruptamente (evitando crashes), retornando mensagens de erro amigáveis caso o usuário tente realizar uma operação inválida ou uma divisão por zero. A estrutura do código passou por um processo de refatoração para garantir maior legibilidade, coesão e facilidade de manutenção.
